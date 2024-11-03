@@ -1,11 +1,4 @@
-/*
- * File: Yahtzee.java
- * ------------------
- * This program will eventually play the Yahtzee game.
- */
-
 //Taryn and Tynan
-//12.14.21
 //Yahtzee - This program plays a full game of Yahtzee
 //We added the extension of keeping track of the top 10 high scores
 
